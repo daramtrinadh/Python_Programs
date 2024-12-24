@@ -1,0 +1,5 @@
+input_list=list(map(int,input("Enter the Numbers:").split()))
+squares=list(map(lambda x:x**2,input_list))
+cubes=list(map(lambda x:x**3,input_list))
+print("Squares:",squares)
+print("Cubes:",cubes)

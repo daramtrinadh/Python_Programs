@@ -1,0 +1,7 @@
+original_tuple=(('Red', 'White', 'Blue'), ('Green', 'Pink', 'Purple'), ('Orange', 'Yellow', 'Lime'))
+check1=input("Enter first check:")
+check2=input("Enter second check:")
+check1_result=any(check1 in sub_tuple for sub_tuple in original_tuple)
+check2_result=any(check2 in sub_tuple for sub_tuple in original_tuple)
+print(check1_result)
+print(check2_result)
