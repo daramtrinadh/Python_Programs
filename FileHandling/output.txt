@@ -1,2 +1,2 @@
 This is a new file
-I Love Javascript
+Python means not snake

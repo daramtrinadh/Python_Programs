@@ -1,4 +1,4 @@
-input_tuples = eval(input())
+input_tuples = [(1,2),(1,3),(2,4),(1,5),(2,6),(3,7)]
 output = []
 
 for i in range(len(input_tuples)):
