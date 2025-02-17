@@ -1,26 +1,29 @@
 #Basic Inheritance
-# class Vehicle():
-#     def __init__(self,make,model,year):
-#         self.make=make
-#         self.model=model
-#         self.year=year
-#     def display(self):
-#         return f"{self.make} with {self.model} in year {self.year}"
-#
-#
-# class Car(Vehicle):
-#     def __init__(self,make,model,year,no_of_doors):
-#         super().__init__(make,model,year)
-#         self.no_of_doors=no_of_doors
-#     def display(self):
-#         return f"The {self.model} car is manufactured in {self.year} with {self.no_of_doors} doors by {self.make}"
-#
-#
-#
-# vehicle=Vehicle("Make","Buggati",2003)
-# car=Car("Make","Buggati",2003,4)
-# print(vehicle.display())
-# print(car.display())
+class Vehicle():
+    def __init__(self,make,model,year):
+        self.make=make
+        self.model=model
+        self.year=year
+    def display(self):
+        return f"{self.make} with {self.model} in year {self.year}"
+
+
+class Car(Vehicle):
+    def __init__(self,make,model,year,no_of_doors):
+        super().__init__(make,model,year)
+        self.no_of_doors=no_of_doors
+    def display(self):
+        return f"The {self.model} car is manufactured in {self.year} with {self.no_of_doors} doors by {self.make}"
+
+
+
+vehicle=Vehicle("Make","Buggati",2003)
+car=Car("Make","Buggati",2003,4)
+print(vehicle.display())
+print(car.display())
+
+
+
 
 ##Method Overriding
 
@@ -90,3 +93,14 @@
 #         super().__init__(name,age)
 
 
+class Branch():
+    def __init__(self,name,age):
+        self.name=name
+        self.age=age
+class SubBranch(Branch):
+    def call(self):
+        return self.age
+
+# B=Branch("Trinadh",21)
+S=SubBranch("Trinadh",21)
+print(S.call())

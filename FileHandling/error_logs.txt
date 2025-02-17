@@ -1,0 +1,124 @@
+02-09 10:45:35.643 29972 29972 W MDCLLight: Caused by: java.lang.NoClassDefFoundError: Class not found using the boot class loader; no stack trace available
+02-09 10:45:35.653 29972 29972 W MDCLLight: Caused by: java.lang.NoClassDefFoundError: Class not found using the boot class loader; no stack trace available
+02-09 10:45:35.653 29972 29972 W MDCLLight: Caused by: java.lang.NoClassDefFoundError: Class not found using the boot class loader; no stack trace available
+02-09 10:45:35.653 29972 29972 W MDCLLight: Caused by: java.lang.NoClassDefFoundError: Class not found using the boot class loader; no stack trace available
+02-09 10:45:35.662 29972 26223 W ProcessAnrErrorMonitor: startMonitoring with delay: 0
+02-09 10:45:35.663 29972 26246 W ProcessAnrErrorMonitor: Starting process monitor checks for process 'com.instagram.android'
+02-09 10:45:35.749 29972 26267 W MDCLLight: Caused by: java.lang.NoClassDefFoundError: Class not found using the boot class loader; no stack trace available
+02-09 10:45:35.750 29972 26269 W MDCLLight: Caused by: java.lang.NoClassDefFoundError: Class not found using the boot class loader; no stack trace available
+02-09 10:45:35.795 29972 26337 W MDCLLight: Caused by: java.lang.NoClassDefFoundError: Class not found using the boot class loader; no stack trace available
+02-09 10:45:35.901 29972 29972 W MDCLLight: Caused by: java.lang.NoClassDefFoundError: Class not found using the boot class loader; no stack trace available
+02-09 10:45:35.965 29972 26253 W MDCLLight: Caused by: java.lang.NoClassDefFoundError: Class not found using the boot class loader; no stack trace available
+02-09 10:45:35.992 29972 29972 W MDCLLight: Caused by: java.lang.NoClassDefFoundError: Class not found using the boot class loader; no stack trace available
+02-09 10:45:38.172 29972 26314 W MDCLLight: Caused by: java.lang.NoClassDefFoundError: Class not found using the boot class loader; no stack trace available
+02-09 10:45:38.359 29972 29972 W MDCLLight: Caused by: java.lang.NoClassDefFoundError: Class not found using the boot class loader; no stack trace available
+02-09 10:45:39.804 29972 26498 W MDCLLight: Caused by: java.lang.NoClassDefFoundError: Class not found using the boot class loader; no stack trace available
+02-09 10:45:39.819 29972 26498 W MDCLLight: Caused by: java.lang.NoClassDefFoundError: Class not found using the boot class loader; no stack trace available
+02-09 10:45:39.819 29972 26498 W MDCLLight: Caused by: java.lang.NoClassDefFoundError: Class not found using the boot class loader; no stack trace available
+02-09 10:45:39.819 29972 26498 W MDCLLight: Caused by: java.lang.NoClassDefFoundError: Class not found using the boot class loader; no stack trace available
+02-09 10:45:39.820 29972 26498 W MDCLLight: Caused by: java.lang.NoClassDefFoundError: Class not found using the boot class loader; no stack trace available
+02-09 10:45:39.820 29972 26498 W MDCLLight: Caused by: java.lang.NoClassDefFoundError: Class not found using the boot class loader; no stack trace available
+02-09 10:45:39.820 29972 26498 W MDCLLight: Caused by: java.lang.NoClassDefFoundError: Class not found using the boot class loader; no stack trace available
+02-09 10:45:39.821 29972 26498 W MDCLLight: Caused by: java.lang.NoClassDefFoundError: Class not found using the boot class loader; no stack trace available
+02-09 10:45:39.831 29972 29972 W MDCLLight: Caused by: java.lang.NoClassDefFoundError: Class not found using the boot class loader; no stack trace available
+02-09 10:45:42.266 29972 26281 E MvfstCallbacks.cpp: readError: streamid=3; error=LocalError: Connection abandoned, Error on socket write Network is unreachable, 
+02-09 10:45:42.266 29972 26281 E MvfstCallbacks.cpp: readError: streamid=80; error=LocalError: Connection abandoned, Error on socket write Network is unreachable, 
+02-09 10:45:42.266 29972 26281 E MvfstCallbacks.cpp: readError: streamid=7; error=LocalError: Connection abandoned, Error on socket write Network is unreachable, 
+02-09 10:45:42.266 29972 26281 E MvfstCallbacks.cpp: readError: streamid=84; error=LocalError: Connection abandoned, Error on socket write Network is unreachable, 
+02-09 10:45:42.266 29972 26281 E MvfstCallbacks.cpp: readError: streamid=11; error=LocalError: Connection abandoned, Error on socket write Network is unreachable, 
+02-09 10:45:42.266 29972 26281 E MvfstCallbacks.cpp: readError: streamid=72; error=LocalError: Connection abandoned, Error on socket write Network is unreachable, 
+02-09 10:45:42.266 29972 26281 E MvfstCallbacks.cpp: readError: streamid=76; error=LocalError: Connection abandoned, Error on socket write Network is unreachable, 
+02-09 10:45:42.266 29972 26281 E MvfstCallbacks.cpp: onConnectionError: error=LocalError: Connection abandoned, Error on socket write Network is unreachable, 
+02-09 10:45:42.267 29972 26627 E IgHttpDataSource: java.io.IOException: TransientError domain: MNSQUICConnection code: 0 detail: Error on socket write Network is unreachable, 
+02-09 10:45:42.267 29972 26627 E IgHttpDataSource: 	at X.7aX.onError(:16)
+02-09 10:45:42.267 29972 26627 E IgHttpDataSource: java.io.IOException: java.io.IOException: TransientError domain: MNSQUICConnection code: 0 detail: Error on socket write Network is unreachable, 
+02-09 10:45:42.267 29972 26627 E IgHttpDataSource: Caused by: java.io.IOException: TransientError domain: MNSQUICConnection code: 0 detail: Error on socket write Network is unreachable, 
+02-09 10:45:42.267 29972 26627 E IgHttpDataSource: 	at X.7aX.onError(:16)
+02-09 10:45:42.268 29972 26627 E IgHttpDataSource: java.io.IOException: java.io.IOException: TransientError domain: MNSQUICConnection code: 0 detail: Error on socket write Network is unreachable, 
+02-09 10:45:42.268 29972 26627 E IgHttpDataSource: Caused by: java.io.IOException: TransientError domain: MNSQUICConnection code: 0 detail: Error on socket write Network is unreachable, 
+02-09 10:45:42.268 29972 26627 E IgHttpDataSource: 	at X.7aX.onError(:16)
+02-09 10:45:42.269 29972 26626 E IgHttpDataSource: java.io.IOException: TransientError domain: MNSQUICConnection code: 0 detail: Error on socket write Network is unreachable, 
+02-09 10:45:42.269 29972 26626 E IgHttpDataSource: 	at X.7aX.onError(:16)
+02-09 10:45:42.270 29972 26626 E IgHttpDataSource: java.io.IOException: java.io.IOException: TransientError domain: MNSQUICConnection code: 0 detail: Error on socket write Network is unreachable, 
+02-09 10:45:42.270 29972 26626 E IgHttpDataSource: Caused by: java.io.IOException: TransientError domain: MNSQUICConnection code: 0 detail: Error on socket write Network is unreachable, 
+02-09 10:45:42.270 29972 26626 E IgHttpDataSource: 	at X.7aX.onError(:16)
+02-09 10:45:42.271 29972 26281 E MvfstCallbacks.cpp: onConnectionSetupError: error=LocalError: Connection abandoned, Error on socket write Network is unreachable, 
+02-09 10:45:42.275 29972 26281 E MvfstCallbacks.cpp: readError: streamid=3; error=LocalError: Connection abandoned, Error on socket write Network is unreachable, 
+02-09 10:45:42.275 29972 26281 E MvfstCallbacks.cpp: readError: streamid=7; error=LocalError: Connection abandoned, Error on socket write Network is unreachable, 
+02-09 10:45:42.275 29972 26281 E MvfstCallbacks.cpp: readError: streamid=11; error=LocalError: Connection abandoned, Error on socket write Network is unreachable, 
+02-09 10:45:42.275 29972 26281 E MvfstCallbacks.cpp: readError: streamid=72; error=LocalError: Connection abandoned, Error on socket write Network is unreachable, 
+02-09 10:45:42.275 29972 26281 E MvfstCallbacks.cpp: onConnectionError: error=LocalError: Connection abandoned, Error on socket write Network is unreachable, 
+02-09 10:45:42.279 29972 26281 E MvfstCallbacks.cpp: onConnectionSetupError: error=LocalError: Connection abandoned, Error on socket write Network is unreachable, 
+02-09 10:45:42.283 29972 26626 E IgHttpDataSource: java.io.IOException: java.io.IOException: TransientError domain: MNSQUICConnection code: 0 detail: Error on socket write Network is unreachable, 
+02-09 10:45:42.283 29972 26626 E IgHttpDataSource: Caused by: java.io.IOException: TransientError domain: MNSQUICConnection code: 0 detail: Error on socket write Network is unreachable, 
+02-09 10:45:42.283 29972 26626 E IgHttpDataSource: 	at X.7aX.onError(:16)
+02-09 10:45:42.407 29972 26281 E MvfstCallbacks.cpp: readError: streamid=3; error=LocalError: Connection abandoned, Error on socket write Network is unreachable, 
+02-09 10:45:42.407 29972 26281 E MvfstCallbacks.cpp: readError: streamid=7; error=LocalError: Connection abandoned, Error on socket write Network is unreachable, 
+02-09 10:45:42.407 29972 26281 E MvfstCallbacks.cpp: readError: streamid=11; error=LocalError: Connection abandoned, Error on socket write Network is unreachable, 
+02-09 10:45:42.407 29972 26281 E MvfstCallbacks.cpp: readError: streamid=4; error=LocalError: Connection abandoned, Error on socket write Network is unreachable, 
+02-09 10:45:42.407 29972 26281 E MvfstCallbacks.cpp: onConnectionError: error=LocalError: Connection abandoned, Error on socket write Network is unreachable, 
+02-09 10:45:42.410 29972 26281 E MvfstCallbacks.cpp: onConnectionSetupError: error=LocalError: Connection abandoned, Error on socket write Network is unreachable, 
+02-09 10:45:44.063 29972 26281 E MvfstCallbacks.cpp: onConnectionSetupError: error=LocalError: Connection abandoned, Error on socket write Network is unreachable, 
+02-09 10:45:44.112 29972 26878 E IgFunctionalErrorEvent: WEARABLES_IPC_ERROR
+02-09 10:45:44.112 29972 26878 E IgFunctionalErrorEvent: 	 ipc_step = LOCATE_VIEW_APP_PACKAGES
+02-09 10:45:44.112 29972 26878 E IgFunctionalErrorEvent: 	 reason = android.content.pm.PackageManager$NameNotFoundException: com.facebook.stella
+02-09 10:45:44.177 29972 26912 E msys    : E[D SqliteError]MCISQLiteErrorLogCallback(167)=>(21) misuse at line 7546 of [872ba256cb]
+02-09 10:45:44.261 29972 26457 E msys    : E[N MQTT]onReadError(652)=>Read Error: AsyncSocketException: recv() failed (peer=[2a03:2880:f34e:90:face:b00c:0:8e]:443), type = Internal error, errno = 103 (Software caused connection abort)
+02-09 10:45:44.263 29972 26254 E MQTTBypassDGWStreamGroupCallbacks.cpp: onStreamGroupError Error Domain=MNSSecureTCP Code=0 UserInfo=0xb400007a900c0e90 {MCFErrorDirectLocalizedFailureReasonKey=mbedtls_ssl_read(): NET - Reading information from the socket failed (-0x004C), error = Software caused connection abort}
+02-09 10:45:44.263 29972 26254 W MQTTBypassDGWConnection.cpp: Restarting due to reason: StreamError
+02-09 10:45:44.341 29972 26912 E msys    : E[C 1]MCCLogErrorWithTrace(264)=>131/755/3098/0
+02-09 10:45:44.349 29972 26944 E msys    : E[N mccw.liger]onConnectError(580)=>connect/error - address: 2a03:2880:f34e:24:face:b00c:0:6e2e, port: 5222, ex: folly::AsyncSocketException: AsyncSocketException: connect failed (immediately), type = Socket not open, errno = 101 (Network is unreachable)
+02-09 10:45:49.296 29972 26281 E MvfstCallbacks.cpp: onConnectionSetupError: error=LocalError: Connection abandoned, Error on socket write Network is unreachable, 
+02-09 10:45:59.278 20926 20971 I epmn    : #logRequestHandlingNonErrorEndEvent. Reset requestIdOfFirstError, firstStartErrorCausesRetry and numOfRetriesDoneForHotwordDetectorStartErrors!
+02-09 10:47:18.996 20926 20964 I epmn    : #logRequestHandlingNonErrorEndEvent. Reset requestIdOfFirstError, firstStartErrorCausesRetry and numOfRetriesDoneForHotwordDetectorStartErrors!
+02-09 10:48:33.748 29972 26456 E msys    : E[N WA]_WCCXMPPStreamDisconnectHandler(311)=>xmpp/disconnect - errorcode: 2, domain: MCCWLigerStream: Error Domain=MCCWLigerStream Code=2 UserInfo=0xb400007ac009f850 {MCFErrorDirectDescriptionKey=WCIStreamState, MCFErrorDirectLocalizedFailureReasonKey=EOF}
+02-09 10:49:14.091 29972 26281 E MvfstCallbacks.cpp: readError: streamid=3; error=LocalError: Idle timeout, Idle timeout, num non control streams: 3
+02-09 10:49:14.091 29972 26281 E MvfstCallbacks.cpp: readError: streamid=7; error=LocalError: Idle timeout, Idle timeout, num non control streams: 3
+02-09 10:49:14.092 29972 26281 E MvfstCallbacks.cpp: readError: streamid=11; error=LocalError: Idle timeout, Idle timeout, num non control streams: 3
+02-09 10:49:14.096 29972 26281 E MvfstCallbacks.cpp: onConnectionError: error=LocalError: Idle timeout, Idle timeout, num non control streams: 3
+02-09 10:49:14.100 29972 26457 E msys    : E[N MQTT]onReadError(652)=>Read Error: AsyncSocketException: recv() failed (peer=157.240.192.25:443), type = Internal error, errno = 103 (Software caused connection abort)
+02-09 10:49:14.104 29972 26281 E MvfstCallbacks.cpp: readError: streamid=3; error=LocalError: Idle timeout, Idle timeout, num non control streams: 3
+02-09 10:49:14.104 29972 26281 E MvfstCallbacks.cpp: readError: streamid=7; error=LocalError: Idle timeout, Idle timeout, num non control streams: 3
+02-09 10:49:14.104 29972 26281 E MvfstCallbacks.cpp: readError: streamid=11; error=LocalError: Idle timeout, Idle timeout, num non control streams: 3
+02-09 10:49:14.105 29972 26281 E MvfstCallbacks.cpp: onConnectionError: error=LocalError: Idle timeout, Idle timeout, num non control streams: 3
+02-09 10:49:14.108 29972 26281 E MvfstCallbacks.cpp: readError: streamid=3; error=LocalError: Idle timeout, Idle timeout, num non control streams: 3
+02-09 10:49:14.108 29972 26281 E MvfstCallbacks.cpp: readError: streamid=7; error=LocalError: Idle timeout, Idle timeout, num non control streams: 3
+02-09 10:49:14.108 29972 26281 E MvfstCallbacks.cpp: readError: streamid=11; error=LocalError: Idle timeout, Idle timeout, num non control streams: 3
+02-09 10:49:14.108 29972 26281 E MvfstCallbacks.cpp: onConnectionError: error=LocalError: Idle timeout, Idle timeout, num non control streams: 3
+02-09 10:49:14.111 29972 26281 E MvfstCallbacks.cpp: readError: streamid=7; error=LocalError: Idle timeout, Idle timeout, num non control streams: 3
+02-09 10:49:14.111 29972 26281 E MvfstCallbacks.cpp: readError: streamid=11; error=LocalError: Idle timeout, Idle timeout, num non control streams: 3
+02-09 10:49:14.111 29972 26281 E MvfstCallbacks.cpp: readError: streamid=3; error=LocalError: Idle timeout, Idle timeout, num non control streams: 3
+02-09 10:49:14.111 29972 26281 E MvfstCallbacks.cpp: onConnectionError: error=LocalError: Idle timeout, Idle timeout, num non control streams: 3
+02-09 10:49:14.115 29972 26281 E MvfstCallbacks.cpp: readError: streamid=3; error=LocalError: Idle timeout, Idle timeout, num non control streams: 3
+02-09 10:49:14.115 29972 26281 E MvfstCallbacks.cpp: readError: streamid=7; error=LocalError: Idle timeout, Idle timeout, num non control streams: 3
+02-09 10:49:14.115 29972 26281 E MvfstCallbacks.cpp: readError: streamid=11; error=LocalError: Idle timeout, Idle timeout, num non control streams: 3
+02-09 10:49:14.116 29972 26281 E MvfstCallbacks.cpp: onConnectionError: error=LocalError: Idle timeout, Idle timeout, num non control streams: 3
+02-09 10:49:14.116 29972 26253 E MQTTBypassDGWStreamGroupCallbacks.cpp: onStreamGroupError Error Domain=MNSSecureTCP Code=0 UserInfo=0xb400007a901b8450 {MCFErrorDirectLocalizedFailureReasonKey=mbedtls_ssl_read(): NET - Reading information from the socket failed (-0x004C), error = Software caused connection abort}
+02-09 10:49:14.116 29972 26253 W MQTTBypassDGWConnection.cpp: Restarting due to reason: StreamError
+02-09 10:49:14.118 29972 26281 E MvfstCallbacks.cpp: readError: streamid=3; error=LocalError: Idle timeout, Idle timeout, num non control streams: 3
+02-09 10:49:14.119 29972 26281 E MvfstCallbacks.cpp: readError: streamid=7; error=LocalError: Idle timeout, Idle timeout, num non control streams: 3
+02-09 10:49:14.119 29972 26281 E MvfstCallbacks.cpp: readError: streamid=11; error=LocalError: Idle timeout, Idle timeout, num non control streams: 3
+02-09 10:49:14.120 29972 26281 E MvfstCallbacks.cpp: onConnectionError: error=LocalError: Idle timeout, Idle timeout, num non control streams: 3
+02-09 10:49:14.121 29972 26914 E msys    : E[S sync]_createResponseError(261)=>Network Response BABDB8E7-5348-4455-AF53-9AD7A7B8EA16 contains sync error Error Domain=dgw Code=2002 UserInfo=0xb400007a900384b0 {MCFErrorDirectDescriptionKey=Error Domain=MNSSecureTCP Code=0 UserInfo=0xb400007a901a6e70 {MCFErrorDirectLocalizedFailureReasonKey=mbedtls_ssl_read(): NET - Reading information from the socket failed (-0x004C), error = Software caused connection abort}} - Underlying error (null): Error Domain=dgw Code=2002 UserInfo=0xb400007a900384b0 {MCFErrorDirectDescriptionKey=Error Domain=MNSSecureTCP Code=0 UserInfo=0xb400007a901a6e70 {MCFErrorDirectLocalizedFailureReasonKey=mbedtls_ssl_read(): NET - Reading information from the socket failed (-0x004C), error = Software caused connection abort}}
+02-09 10:49:14.122 29972 26281 E MvfstCallbacks.cpp: readError: streamid=3; error=LocalError: Idle timeout, Idle timeout, num non control streams: 3
+02-09 10:49:14.122 29972 26281 E MvfstCallbacks.cpp: readError: streamid=7; error=LocalError: Idle timeout, Idle timeout, num non control streams: 3
+02-09 10:49:14.122 29972 26281 E MvfstCallbacks.cpp: readError: streamid=11; error=LocalError: Idle timeout, Idle timeout, num non control streams: 3
+02-09 10:49:14.122 29972 26281 E MvfstCallbacks.cpp: onConnectionError: error=LocalError: Idle timeout, Idle timeout, num non control streams: 3
+02-09 10:49:14.131 29972 26914 E msys    : E[S sync]_createResponseError(261)=>Network Response 54C2E51E-800C-4762-B3B9-C68F29102994 contains sync error Error Domain=dgw Code=2002 UserInfo=0xb400007a900b0090 {MCFErrorDirectDescriptionKey=Error Domain=MNSSecureTCP Code=0 UserInfo=0xb400007a901a6e70 {MCFErrorDirectLocalizedFailureReasonKey=mbedtls_ssl_read(): NET - Reading information from the socket failed (-0x004C), error = Software caused connection abort}} - Underlying error (null): Error Domain=dgw Code=2002 UserInfo=0xb400007a900b0090 {MCFErrorDirectDescriptionKey=Error Domain=MNSSecureTCP Code=0 UserInfo=0xb400007a901a6e70 {MCFErrorDirectLocalizedFailureReasonKey=mbedtls_ssl_read(): NET - Reading information from the socket failed (-0x004C), error = Software caused connection abort}}
+02-09 10:49:14.137 29972 26914 E msys    : E[S sync]_createResponseError(261)=>Network Response 67533035-76EF-4956-B598-42322DF26D1E contains sync error Error Domain=dgw Code=2002 UserInfo=0xb400007a9014d410 {MCFErrorDirectDescriptionKey=Error Domain=MNSSecureTCP Code=0 UserInfo=0xb400007a901a6e70 {MCFErrorDirectLocalizedFailureReasonKey=mbedtls_ssl_read(): NET - Reading information from the socket failed (-0x004C), error = Software caused connection abort}} - Underlying error (null): Error Domain=dgw Code=2002 UserInfo=0xb400007a9014d410 {MCFErrorDirectDescriptionKey=Error Domain=MNSSecureTCP Code=0 UserInfo=0xb400007a901a6e70 {MCFErrorDirectLocalizedFailureReasonKey=mbedtls_ssl_read(): NET - Reading information from the socket failed (-0x004C), error = Software caused connection abort}}
+02-09 10:52:40.264 29972 26281 E MvfstCallbacks.cpp: readError: streamid=3; error=LocalError: Idle timeout, Idle timeout, num non control streams: 3
+02-09 10:52:40.264 29972 26281 E MvfstCallbacks.cpp: readError: streamid=7; error=LocalError: Idle timeout, Idle timeout, num non control streams: 3
+02-09 10:52:40.264 29972 26281 E MvfstCallbacks.cpp: readError: streamid=11; error=LocalError: Idle timeout, Idle timeout, num non control streams: 3
+02-09 10:52:40.273 29972 26281 E MvfstCallbacks.cpp: onConnectionError: error=LocalError: Idle timeout, Idle timeout, num non control streams: 3
+02-09 10:52:40.274 29972 26254 E MQTTBypassDGWStreamGroupCallbacks.cpp: onStreamGroupError Error Domain=MNSHTTPClient Code=0 UserInfo=0xb400007a90067e50 {MCFErrorDirectLocalizedFailureReasonKey=Timeout waiting for ping response}
+02-09 10:52:40.274 29972 26457 E msys    : E[N MQTT]onReadError(652)=>Read Error: AsyncSocketException: recv() failed (peer=157.240.192.25:443), type = Internal error, errno = 103 (Software caused connection abort)
+02-09 10:52:40.274 29972 26254 W MQTTBypassDGWConnection.cpp: Restarting due to reason: StreamError
+02-09 10:52:40.276 29972 26281 E MvfstCallbacks.cpp: readError: streamid=3; error=LocalError: Idle timeout, Idle timeout, num non control streams: 3
+02-09 10:52:40.276 29972 26281 E MvfstCallbacks.cpp: readError: streamid=7; error=LocalError: Idle timeout, Idle timeout, num non control streams: 3
+02-09 10:52:40.276 29972 26281 E MvfstCallbacks.cpp: readError: streamid=11; error=LocalError: Idle timeout, Idle timeout, num non control streams: 3
+02-09 10:52:40.276 29972 26281 E MvfstCallbacks.cpp: onConnectionError: error=LocalError: Idle timeout, Idle timeout, num non control streams: 3
+02-09 10:52:58.905 26808 29688 E HQSession.cpp: Peer closed with error err=Internal Error msg=Error on socket write Network is unreachable, Operation not permitted proto=, client CID=, server CID=00000000, local=<uninitialized address>, <uninitialized address>=upstream, drain=none
+02-09 10:52:59.097 28532 28579 I Sugar   : domain class : ABPaymentErrorMessage
+02-09 10:53:05.882 26808 29862 E fb4a.GraphServiceQueryExecutor: X.8KK: TigonError(error=TransientError, errorDomain=TigonLigerErrorDomain, domainErrorCode=2, analyticsDetail="AsyncSocketException: connect failed, type = Socket not open, errno = 103 (Software caused connection abort)"), Summary.queryName=ClashUnitQuery
+02-09 10:53:05.882 26808 29862 E fb4a.GraphServiceQueryExecutor: 	at X.1zB.onError(Unknown Source:67)
+02-09 10:53:05.882 26808 29862 E fb4a.GraphServiceQueryExecutor: 	at X.28C.onError(Unknown Source:231)

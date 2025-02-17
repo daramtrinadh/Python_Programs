@@ -1,0 +1,70 @@
+02-10 09:42:07.752  2757 20188 D BatteryStatsService: noteVideoSurfaceChanged  noteWhich: 49,arg1: 1260, arg2: 2800, arg3: 6923, arg4: 2, name: com.android.camera
+02-10 09:42:07.758  2757  4427 D BatteryStatsService: noteVideoSurfaceChanged  noteWhich: 49,arg1: 1260, arg2: 2800, arg3: 6923, arg4: 2, name: com.android.camera
+02-10 09:42:18.268  2757  4971 D BatteryStatsService: noteVideoSurfaceChanged  noteWhich: 49,arg1: -1, arg2: -1, arg3: 6923, arg4: 2, name: com.android.camera
+02-10 11:33:32.095  6732 12840 W libc    : Access denied finding property "vendor.camera.aux.packagelist"
+02-10 11:33:32.098  6732 12840 W libc    : Access denied finding property "vendor.camera.aux.packagelist"
+02-10 11:38:40.289 15274 15796 I CameraManagerGlobal: Connecting to camera service
+02-10 11:38:40.324 15274 15796 W VivoJsonResourceManager: Cannot open file product/camera/jsons/StaticProjectConfig.json!
+02-10 11:38:40.324 15274 15796 E VivoJsonResourceManager: getJsonByName 68:Json File product/camera/jsons/StaticProjectConfig.json Parsed Failed!!!!!
+02-10 11:38:40.324 15274 15796 W VivoJsonResourceManager: Cannot open file product/camera/jsons/StaticProjectConfig.json!
+02-10 11:38:40.324 15274 15796 E VivoJsonResourceManager: getJsonByName 68:Json File product/camera/jsons/StaticProjectConfig.json Parsed Failed!!!!!
+02-10 11:38:40.325 15274 15796 W VivoJsonResourceManager: Cannot open file product/camera/jsons/StaticProjectConfig.json!
+02-10 11:38:40.325 15274 15796 E VivoJsonResourceManager: getJsonByName 68:Json File product/camera/jsons/StaticProjectConfig.json Parsed Failed!!!!!
+02-10 11:38:40.325 15274 15796 W VivoJsonResourceManager: Cannot open file product/camera/jsons/StaticProjectConfig.json!
+02-10 11:38:40.325 15274 15796 E VivoJsonResourceManager: getJsonByName 68:Json File product/camera/jsons/StaticProjectConfig.json Parsed Failed!!!!!
+02-10 11:38:40.326 15274 15796 W VivoJsonResourceManager: Cannot open file product/camera/jsons/StaticProjectConfig.json!
+02-10 11:38:40.326 15274 15796 E VivoJsonResourceManager: getJsonByName 68:Json File product/camera/jsons/StaticProjectConfig.json Parsed Failed!!!!!
+02-10 11:38:40.326 15274 15796 W VivoJsonResourceManager: Cannot open file product/camera/jsons/StaticProjectConfig.json!
+02-10 11:38:40.326 15274 15796 E VivoJsonResourceManager: getJsonByName 68:Json File product/camera/jsons/StaticProjectConfig.json Parsed Failed!!!!!
+02-10 11:38:40.326 15274 15796 W VivoJsonResourceManager: Cannot open file product/camera/jsons/StaticProjectConfig.json!
+02-10 11:38:40.326 15274 15796 E VivoJsonResourceManager: getJsonByName 68:Json File product/camera/jsons/StaticProjectConfig.json Parsed Failed!!!!!
+02-10 11:38:40.327 15274 15796 W VivoJsonResourceManager: Cannot open file product/camera/jsons/StaticProjectConfig.json!
+02-10 11:38:40.327 15274 15796 E VivoJsonResourceManager: getJsonByName 68:Json File product/camera/jsons/StaticProjectConfig.json Parsed Failed!!!!!
+02-10 11:38:40.327 15274 15796 W VivoJsonResourceManager: Cannot open file product/camera/jsons/StaticProjectConfig.json!
+02-10 11:38:40.327 15274 15796 E VivoJsonResourceManager: getJsonByName 68:Json File product/camera/jsons/StaticProjectConfig.json Parsed Failed!!!!!
+02-10 11:38:40.327 15274 15796 W VivoJsonResourceManager: Cannot open file product/camera/jsons/StaticProjectConfig.json!
+02-10 11:38:40.328 15274 15796 E VivoJsonResourceManager: getJsonByName 68:Json File product/camera/jsons/StaticProjectConfig.json Parsed Failed!!!!!
+02-10 11:38:40.328 15274 15796 W VivoJsonResourceManager: Cannot open file product/camera/jsons/StaticProjectConfig.json!
+02-10 11:38:40.328 15274 15796 E VivoJsonResourceManager: getJsonByName 68:Json File product/camera/jsons/StaticProjectConfig.json Parsed Failed!!!!!
+02-10 11:38:40.328 15274 15796 W VivoJsonResourceManager: Cannot open file product/camera/jsons/StaticProjectConfig.json!
+02-10 11:38:40.328 15274 15796 E VivoJsonResourceManager: getJsonByName 68:Json File product/camera/jsons/StaticProjectConfig.json Parsed Failed!!!!!
+02-10 11:38:40.329 15274 15796 E VivoJsonResourceManager: Fail to find vivoCameraAppTypeConfig
+02-10 11:38:40.329 15274 15796 E VivoJsonResourceManager: Fail to find VivoCamera
+02-10 11:38:40.329 15274 15796 E VivoJsonResourceManager: Fail to find systemCamera_packageList
+02-10 11:38:40.330 15274 15796 W VivoJsonResourceManager: Cannot open file product/camera/jsons/StaticProjectConfig.json!
+02-10 11:38:40.331 15274 15796 E VivoJsonResourceManager: getJsonByName 68:Json File product/camera/jsons/StaticProjectConfig.json Parsed Failed!!!!!
+02-10 11:38:40.331 15274 15796 W VivoJsonResourceManager: Cannot open file product/camera/jsons/StaticProjectConfig.json!
+02-10 11:38:40.331 15274 15796 E VivoJsonResourceManager: getJsonByName 68:Json File product/camera/jsons/StaticProjectConfig.json Parsed Failed!!!!!
+02-10 11:38:40.331 15274 15796 W VivoJsonResourceManager: Cannot open file product/camera/jsons/StaticProjectConfig.json!
+02-10 11:38:40.332 15274 15796 E VivoJsonResourceManager: getJsonByName 68:Json File product/camera/jsons/StaticProjectConfig.json Parsed Failed!!!!!
+02-10 11:38:40.332 15274 15796 W VivoJsonResourceManager: Cannot open file product/camera/jsons/StaticProjectConfig.json!
+02-10 11:38:40.332 15274 15796 E VivoJsonResourceManager: getJsonByName 68:Json File product/camera/jsons/StaticProjectConfig.json Parsed Failed!!!!!
+02-10 11:38:40.332 15274 15796 W VivoJsonResourceManager: Cannot open file product/camera/jsons/StaticProjectConfig.json!
+02-10 11:38:40.332 15274 15796 E VivoJsonResourceManager: getJsonByName 68:Json File product/camera/jsons/StaticProjectConfig.json Parsed Failed!!!!!
+02-10 11:38:40.333 15274 15796 W VivoJsonResourceManager: Cannot open file product/camera/jsons/StaticProjectConfig.json!
+02-10 11:38:40.333 15274 15796 E VivoJsonResourceManager: getJsonByName 68:Json File product/camera/jsons/StaticProjectConfig.json Parsed Failed!!!!!
+02-10 11:38:40.333 15274 15796 W VivoJsonResourceManager: Cannot open file product/camera/jsons/StaticProjectConfig.json!
+02-10 11:38:40.333 15274 15796 E VivoJsonResourceManager: getJsonByName 68:Json File product/camera/jsons/StaticProjectConfig.json Parsed Failed!!!!!
+02-10 11:38:40.333 15274 15796 W VivoJsonResourceManager: Cannot open file product/camera/jsons/StaticProjectConfig.json!
+02-10 11:38:40.333 15274 15796 E VivoJsonResourceManager: getJsonByName 68:Json File product/camera/jsons/StaticProjectConfig.json Parsed Failed!!!!!
+02-10 11:38:40.333 15274 15796 W VivoJsonResourceManager: Cannot open file product/camera/jsons/StaticProjectConfig.json!
+02-10 11:38:40.334 15274 15796 E VivoJsonResourceManager: getJsonByName 68:Json File product/camera/jsons/StaticProjectConfig.json Parsed Failed!!!!!
+02-10 11:38:40.334 15274 15796 W VivoJsonResourceManager: Cannot open file product/camera/jsons/StaticProjectConfig.json!
+02-10 11:38:40.334 15274 15796 E VivoJsonResourceManager: getJsonByName 68:Json File product/camera/jsons/StaticProjectConfig.json Parsed Failed!!!!!
+02-10 11:38:40.334 15274 15796 W VivoJsonResourceManager: Cannot open file product/camera/jsons/StaticProjectConfig.json!
+02-10 11:38:40.334 15274 15796 E VivoJsonResourceManager: getJsonByName 68:Json File product/camera/jsons/StaticProjectConfig.json Parsed Failed!!!!!
+02-10 11:38:40.335 15274 15796 W VivoJsonResourceManager: Cannot open file product/camera/jsons/StaticProjectConfig.json!
+02-10 11:38:40.335 15274 15796 E VivoJsonResourceManager: getJsonByName 68:Json File product/camera/jsons/StaticProjectConfig.json Parsed Failed!!!!!
+02-10 11:38:40.335 15274 15796 W VivoJsonResourceManager: Cannot open file product/camera/jsons/StaticProjectConfig.json!
+02-10 11:38:40.335 15274 15796 E VivoJsonResourceManager: getJsonByName 68:Json File product/camera/jsons/StaticProjectConfig.json Parsed Failed!!!!!
+02-10 11:43:14.797 17051 18963 W .apps.nbu.files: ApkAssets: Deleting an ApkAssets object '<empty> and /system/app/AlphaCamera/AlphaCamera.apk' with 1 weak references
+02-10 11:44:55.549 17051 18963 W .apps.nbu.files: ApkAssets: Deleting an ApkAssets object '<empty> and /system/app/AlphaCamera/AlphaCamera.apk' with 1 weak references
+02-10 11:44:55.560 17051 18963 W .apps.nbu.files: ApkAssets: Deleting an ApkAssets object '<empty> and /system/app/VivoCamera/VivoCamera.apk' with 1 weak references
+02-10 11:44:55.563 17051 18963 W .apps.nbu.files: ApkAssets: Deleting an ApkAssets object '<empty> and /system/app/CameraExtensionsProxy/CameraExtensionsProxy.apk' with 1 weak references
+02-10 11:44:55.583 17051 18963 W .apps.nbu.files: ApkAssets: Deleting an ApkAssets object '<empty> and /system/priv-app/FloatingCamera/FloatingCamera.apk' with 1 weak references
+02-10 11:47:49.593  7740  3416 D SQLiteQueryBuilder: SELECT sum(_size), count(_size) FROM files WHERE ((((is_pending=0 AND NOT _modifier=4) OR (is_pending=1 AND lower(_data) NOT REGEXP '.*/\.pending-(\d+)-([^/]+)$' AND owner_package_name IN ( 'com.google.android.apps.nbu.files' )))) AND (is_trashed=0) AND (volume_name IN ( 'external_primary' ))) AND (((media_type = 3 AND  ( ( (_data  LIKE '/storage/emulated/0/.VivoCamera/%')  AND  (_size  < 20971520) )  AND  ( (_data  LIKE '/storage/emulated/0/%')  AND  ((_display_name LIKE '.%')  = 0) ) ) ) AND (((format IS NULL OR format != 12289) AND (_size IS NOT NULL) AND (_data IS NOT NULL) AND (LENGTH(_data) > 1)))))
+02-10 11:47:49.641  7740  3416 D SQLiteQueryBuilder: SELECT sum(_size), count(_size) FROM files WHERE ((((is_pending=0 AND NOT _modifier=4) OR (is_pending=1 AND lower(_data) NOT REGEXP '.*/\.pending-(\d+)-([^/]+)$' AND owner_package_name IN ( 'com.google.android.apps.nbu.files' )))) AND (is_trashed=0) AND (volume_name IN ( 'external_primary' ))) AND (((mime_type IS NOT NULL AND mime_type IS NOT 'application/octet-stream' AND  ( (_data  LIKE '/storage/emulated/0/%')  AND  ( (media_type  = 1)  OR  (media_type  = 3)  OR  (media_type  = 2) )  AND  ( (_data  LIKE '/storage/emulated/0/.VivoCamera/%')  AND  ( (_data  LIKE '/storage/emulated/0/%')  AND  ((_display_name LIKE '.%')  = 0) ) ) ) ) AND (((format IS NULL OR format != 12289) AND (_size IS NOT NULL) AND (_data IS NOT NULL) AND (LENGTH(_data) > 1)))))
+02-10 11:52:49.207 17051 18963 W .apps.nbu.files: ApkAssets: Deleting an ApkAssets object '<empty> and /system/app/AlphaCamera/AlphaCamera.apk' with 1 weak references
+02-10 11:52:49.224 17051 18963 W .apps.nbu.files: ApkAssets: Deleting an ApkAssets object '<empty> and /system/app/VivoCamera/VivoCamera.apk' with 1 weak references
+02-10 11:52:49.226 17051 18963 W .apps.nbu.files: ApkAssets: Deleting an ApkAssets object '<empty> and /system/app/CameraExtensionsProxy/CameraExtensionsProxy.apk' with 1 weak references
+02-10 11:52:49.245 17051 18963 W .apps.nbu.files: ApkAssets: Deleting an ApkAssets object '<empty> and /system/priv-app/FloatingCamera/FloatingCamera.apk' with 1 weak references

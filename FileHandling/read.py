@@ -1,3 +1,20 @@
+import re
+
+buffer_keywords = [
+    "camera"
+]
+
+with open('test_logs.txt', 'r') as youtubelogs, open('buffering_logs.txt', 'w') as bufferlogs:
+    for line in youtubelogs:
+        if any(re.search(keyword, line, re.IGNORECASE) for keyword in buffer_keywords):
+            bufferlogs.write(line)
+
+
+
+
+
+
+
 # import os
 # import shutil
 # with open('example.txt','w+') as file1:
