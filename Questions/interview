@@ -1,0 +1,34 @@
+
+Sanity Testing (Basic Check Before Opening the Restaurant)
+
+🔍 Quick test to see if key things work before deep testing
+Example: Check if the restaurant has a door, lights, and a kitchen before opening.
+Mobile Example: Ensure the phone boots up, touchscreen works, and network connects after flashing a new build.
+If it fails, stop testing! 🚫
+Smoke Testing (Checking All Main Features Before Serving Customers)
+
+🔍 A high-level check to see if major functions work
+Example: Check if the restaurant has tables, a working stove, and waiters before serving food.
+Mobile Example: Verify that major features like calls, Wi-Fi, camera, messaging, and UI navigation work.
+Regression Testing (Ensuring Old Features Still Work After a Change)
+
+🔍 Deep testing to ensure new updates haven’t broken old functionalities
+Example: After changing the menu, ensure old dishes still taste good and the restaurant functions as before.
+Mobile Example: After a modem update, check that network stability, battery life, and touchscreen responsiveness remain unchanged.
+📌 How to Explain in the Interview (1-Minute Answer) 🎯
+"In Qualcomm mobile testing, we perform:
+
+Sanity Testing to ensure that a new build boots up and basic functionalities work.
+Smoke Testing to verify that major features like calls, Wi-Fi, and UI interactions function properly.
+Regression Testing to check that old functionalities haven’t broken after an update.
+If a sanity test fails, we stop testing immediately. If a smoke test fails, we reject the build. Regression testing ensures the system remains stable after updates. We use ADB logs, Logcat, automation frameworks, and Monkey Testing to validate these."
+
+📌 Super-Easy Mnemonic Trick: "SSR" (Sanity → Smoke → Regression) 🔥
+👉 Sanity → Smoke → Regression
+👉 Small Check → System Check → Retesting After Update
+
+🔥 Remember:
+
+Sanity = Small check (Basic functions) 🔍
+Smoke = System check (Major features) 📱
+Regression = Retest after updates (Everything still works) 🔄

@@ -1,0 +1,33 @@
+(main)
+adb devices
+adb start-server
+adb kill-server
+adb reboot
+adb reboot bootloader-->fastboot devices ,fastboot recovery
+adb reboot recovery
+
+(2)logs collection
+adb logcat
+adb logcat -V threadtime > file_name.txt
+adb logcat -g
+adb logcat -G <size>
+
+
+(3)shell
+adb shell
+adb shell wm size WxH
+adb shell get prop
+adb get state
+adb get-serialno
+adb shell am start <package_name>
+adb install <package_name>
+adb uninstall <package_name>
+adb shell pm list packages
+adb shell pm list packages -3
+adb shell screenrecord <>
+adb shell screencap
+
+adb push <> <>
+adb pull <> <>
+adb shell dumpsys battery
+

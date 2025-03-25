@@ -1,19 +1,41 @@
 import re
-
-buffer_keywords = [
-    "camera"
-]
-
-with open('test_logs.txt', 'r') as youtubelogs, open('buffering_logs.txt', 'w') as bufferlogs:
-    for line in youtubelogs:
-        if any(re.search(keyword, line, re.IGNORECASE) for keyword in buffer_keywords):
-            bufferlogs.write(line)
-
-
+#
+# buffer_keywords = [
+#     "camera"
+# ]
+#
+# with open('test_logs.txt', 'r') as youtubelogs, open('buffering_logs.txt', 'w') as bufferlogs:
+#     for line in youtubelogs:
+#         if any(re.compile().search(keyword, line, re.IGNORECASE) for keyword in buffer_keywords):
+#             bufferlogs.write(line)
 
 
 
+str1="Jeevana is 25 Prasanna is 30 Tulip is 40 aditya is 23"
+result=re.findall('(\w+)\s+is\s+(\d+)',str1)
+print(dict(result))
+# str1="My name is naveen kumar and date of birth is 08/12"
+# result=re.match('^(\w+)\s+(\w+)\s+is(\w+)\s(\w+)\s+and\s+is[1-31]{1,2}/[1-9|10-12]{1,2}',str1)
+# print(result)
+# gmail="jinkala.naveen@gmail.com"
+# patterns=(
+#      r'^'
+#     r'([\w\.]+)'
+#     r'@'
+#     r'([\w\.]+)'
+#     r'\.'
+#     r'(\w{2,4})'
+#     r'$'
+# )
+#
+# result=re.match(patterns,gmail)
+# print(result.group())
 
+# import re
+#
+# str1 = "My name is naveen kumar and date of birth is 08/12"
+# result = re.match('^(\w+)\s+(\w+)\s+is(\w+)\s(\w+)\s+and\s+is[1-31]{1,2}/[1-9|10-12]{1,2}', str1)
+# print(result)
 
 # import os
 # import shutil
